@@ -9,5 +9,16 @@ FLOW_RATE = {
 }
 
 
-def pout
+def pourDrink(drink)
+
+
+
+
+
+def pour(pumpNr,timeInSec)
+{
+    
+}
+
+def testPourPump1()
     
